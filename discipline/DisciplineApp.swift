@@ -5,10 +5,12 @@
 //  Created by Aaron Anthony on 2022-12-02.
 //
 
+// discipline
+
 import SwiftUI
 
 @main
-struct habitApp: App {
+struct DisciplineApp: App {
     var body: some Scene {
         WindowGroup {
             TabView {
